@@ -1,53 +1,53 @@
 @font-face {
-  font-family: 'Baloise T-Black';
+  font-family: 'Baloise Text';
   src: url(https://flo-lorenz.github.io/Fonts/BaloiseCreateText-Black.ttf) format('truetype');
-  font-weight: 400;
+  font-weight: 900;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Baloise T-BlackIt';
+  font-family: 'Baloise Text';
   src: url(https://flo-lorenz.github.io/Fonts/BaloiseCreateText-BlackIt.ttf) format('truetype');
-  font-weight: 400;
-  font-style: normal;
+  font-weight: 900;
+  font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Baloise T-Bold';
+  font-family: 'Baloise Text';
   src: url(https://flo-lorenz.github.io/Fonts/BaloiseCreateText-Bold.ttf) format('truetype');
-  font-weight: 400;
+  font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Baloise T-BoldIt';
+  font-family: 'Baloise Text';
   src: url(https://flo-lorenz.github.io/Fonts/BaloiseCreateText-BoldIt.ttf) format('truetype');
-  font-weight: 400;
-  font-style: normal;
+  font-weight: 700;
+  font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Baloise T-Light';
+  font-family: 'Baloise Text';
   src: url(https://flo-lorenz.github.io/Fonts/BaloiseCreateText-Light.ttf) format('truetype');
-  font-weight: 400;
+  font-weight: 300;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Baloise T-LightIt';
+  font-family: 'Baloise Text';
   src: url(https://flo-lorenz.github.io/Fonts/BaloiseCreateText-LightIt.ttf) format('truetype');
-  font-weight: 400;
-  font-style: normal;
+  font-weight: 300;
+  font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Baloise T-Regular';
+  font-family: 'Baloise Text';
   src: url(https://flo-lorenz.github.io/Fonts/BaloiseCreateText-Regular.ttf) format('truetype');
   font-weight: 400;
   font-style: normal;
@@ -55,9 +55,13 @@
 }
 
 @font-face {
-  font-family: 'Baloise T-RegularIt';
+  font-family: 'Baloise Text';
   src: url(https://flo-lorenz.github.io/Fonts/BaloiseCreateText-RegularIt.ttf) format('truetype');
   font-weight: 400;
-  font-style: normal;
+  font-style: italic;
   font-display: swap;
+}
+
+body {
+ font-family: Baloise Text;
 }
