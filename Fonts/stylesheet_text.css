@@ -1,63 +1,63 @@
 @font-face {
-  font-family: 'B-Text-Black';
-  src:
-    url('https://flo-lorenz.github.io/Fonts/BaloiseCreateText-Black.ttf') format('truetype');
-  font-weight: normal;
+  font-family: 'Baloise T-Black';
+  src: url(https://flo-lorenz.github.io/Fonts/BaloiseCreateText-Black.ttf) format('truetype');
+  font-weight: 400;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-  font-family: 'B-Text-BlackIt';
-  src:
-    url('https://flo-lorenz.github.io/Fonts/BaloiseCreateText-BlackIt.ttf') format('truetype');
-  font-weight: normal;
+  font-family: 'Baloise T-BlackIt';
+  src: url(https://flo-lorenz.github.io/Fonts/BaloiseCreateText-BlackIt.ttf) format('truetype');
+  font-weight: 400;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-  font-family: 'B-Text-Bold';
-  src:
-    url('https://flo-lorenz.github.io/Fonts/BaloiseCreateText-Bold.ttf') format('truetype');
-  font-weight: normal;
+  font-family: 'Baloise T-Bold';
+  src: url(https://flo-lorenz.github.io/Fonts/BaloiseCreateText-Bold.ttf) format('truetype');
+  font-weight: 400;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-  font-family: 'B-Text-BoldIt';
-  src:
-    url('https://flo-lorenz.github.io/Fonts/BaloiseCreateText-BoldIt.ttf') format('truetype');
-  font-weight: normal;
+  font-family: 'Baloise T-BoldIt';
+  src: url(https://flo-lorenz.github.io/Fonts/BaloiseCreateText-BoldIt.ttf) format('truetype');
+  font-weight: 400;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-  font-family: 'B-Text-Light';
-  src:
-    url('https://flo-lorenz.github.io/Fonts/BaloiseCreateText-Light.ttf') format('truetype');
-  font-weight: normal;
+  font-family: 'Baloise T-Light';
+  src: url(https://flo-lorenz.github.io/Fonts/BaloiseCreateText-Light.ttf) format('truetype');
+  font-weight: 400;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-  font-family: 'B-Text-LightIt';
-  src:
-    url('https://flo-lorenz.github.io/Fonts/BaloiseCreateText-LightIt.ttf') format('truetype');
-  font-weight: normal;
+  font-family: 'Baloise T-LightIt';
+  src: url(https://flo-lorenz.github.io/Fonts/BaloiseCreateText-LightIt.ttf) format('truetype');
+  font-weight: 400;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-  font-family: 'B-Text-Regular';
-  src:
-    url('https://flo-lorenz.github.io/Fonts/BaloiseCreateText-Regular.ttf') format('truetype');
-  font-weight: normal;
+  font-family: 'Baloise T-Regular';
+  src: url(https://flo-lorenz.github.io/Fonts/BaloiseCreateText-Regular.ttf) format('truetype');
+  font-weight: 400;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-  font-family: 'B-Text-RegularIt';
-  src:
-    url('https://flo-lorenz.github.io/Fonts/BaloiseCreateText-RegularIt.ttf') format('truetype');
-  font-weight: normal;
+  font-family: 'Baloise T-RegularIt';
+  src: url(https://flo-lorenz.github.io/Fonts/BaloiseCreateText-RegularIt.ttf) format('truetype');
+  font-weight: 400;
   font-style: normal;
+  font-display: swap;
 }
